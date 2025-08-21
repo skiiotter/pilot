@@ -1,5 +1,7 @@
 # Pilot Macro Tool
 
+# WARNING: THIS APP DOES NOT WORK AT ALL. DO NOT USE UNLESS YOU WANT TO BE LET DOWN.
+
 A lightweight macro recorder and player for Windows inspired by TinyTask.
 
 ## Features
