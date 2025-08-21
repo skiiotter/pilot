@@ -20,5 +20,4 @@ A lightweight macro recorder and player for Windows inspired by TinyTask.
    ```bash
    python main.py
 
-
 **Installation may take a while, if you do not already have the required python tools.**
