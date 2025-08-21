@@ -16,3 +16,5 @@ A lightweight macro recorder and player for Windows inspired by TinyTask.
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+**Installation may take a while, if you do not already have the required python tools.**
